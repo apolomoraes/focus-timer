@@ -1,8 +1,8 @@
 export default function () {
-  const forestAudio = new Audio('./audio/floresta.wav')
-  const rainAudio = new Audio('./audio/chuva.wav')
-  const storeAudio = new Audio('./audio/cafeteria.wav')
-  const fireAudio = new Audio('./audio/lareira.wav')
+  const forestAudio = new Audio('./audio/forest.wav')
+  const rainAudio = new Audio('./audio/rain.wav')
+  const storeAudio = new Audio('./audio/store.wav')
+  const fireAudio = new Audio('./audio/fire.wav')
   const buttonPressAudio = new Audio(
     'https://github.com/maykbrito/automatic-video-creator/blob/master/audios/button-press.wav?raw=true'
   )
